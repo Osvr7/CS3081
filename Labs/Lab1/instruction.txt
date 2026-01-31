@@ -1,0 +1,10 @@
+cd copy the path 
+python -m venv venv3081
+
+Activate it: 
+venv3081\Scripts\activate
+
+pip install -r requirements.txt
+python maze.py maze1.txt
+python maze.py maze2.txt
+python maze.py maze3.txt

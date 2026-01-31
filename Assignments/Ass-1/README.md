@@ -32,4 +32,4 @@ Below are the screenshots of our AI in action:
 ![AI Victory](img4.png)
 
 ---
-*Developed as part of the CS3081 Artificial Intelligence Lab.*
+*Developed as part of the CS3081 Artificial Intelligence Assignments.*

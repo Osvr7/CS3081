@@ -1,1 +1,3 @@
 venv3081/
+__pycache__/
+*.pyc

@@ -2,3 +2,7 @@ venv3081/
 __pycache__/
 *.pyc
 .DS_Store
+.docx
+.tmp
+lab_enhanced (1).pdf
+.png

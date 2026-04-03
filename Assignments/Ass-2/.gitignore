@@ -1,0 +1,12 @@
+venv3081/
+__pycache__/
+*.pyc
+.DS_Store
+
+# File types
+*.docx
+*.png
+*.tmp
+
+# Specific file
+CS3081.pdf
